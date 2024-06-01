@@ -23,5 +23,5 @@ This repository contains a Java Web application developed using JSP. The project
 - Calculation of the average of two grades on the server.
 - Return the result to the client.
 
-## Project Structure
+
 
